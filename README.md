@@ -2,52 +2,38 @@
   <img src="banner.jfif" width="100%">
 </p>
 
-<h1 align="center">Mikey</h1>
+<h1 align="center">./Mikey</h1>
 <p align="center">
-Reverse Engineering • Windows Internals • Software Security
+  Reverse Engineering • Malware Analaysis • Tools Development
 </p>
 
 ---
 
-## About
+## About Me
 
-Security enthusiast focused on Windows internals, reverse engineering, and low-level software analysis.
+I am a malware developer and analyst, and I enjoy trolling script kiddies, malware "skids" and scammers
 
-My work revolves around understanding executable behavior, analyzing binaries, and developing Windows-based utilities with C# and Python.
+## Interests
 
-## Areas
-
-- Reverse Engineering
-- Windows Internals
-- Software Security
-- Malware Analysis
-- Desktop Development
-- Automation
-
-## Stack
+- Cyber Security
+- Kick Boxing
+- Analysis, Deconstruction, and Experimentation
+- Unconventional Ideas
 
 **Languages**
 
 - C#
 - Python
-- JavaScript
-
-**Platforms**
-
-- Windows
-- .NET
+- c++
 
 **Tools**
 
 - Ghidra
-- IDA Free
 - x64dbg
 - dnSpy
 - Visual Studio
-- Git
 
 ## Contact
 
-- GitHub: github.com/YourUsername
-
----
+- my discord: wdexclussion
+- my telegram: TCP006
