@@ -11,7 +11,7 @@
 
 ## About Me
 
-I am a malware developer and analyst, and I enjoy trolling script kiddies, malware "skids" and scammers
+I am a malware developer and analyst, and I enjoy trolling script kiddies, malware kids and scammers
 
 ## Interests
 
