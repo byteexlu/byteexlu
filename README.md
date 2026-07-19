@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner.jfif" width="100%">
+</p>
+
 <h1 align="center">Mikey</h1>
 <p align="center">
 Reverse Engineering • Windows Internals • Software Security
