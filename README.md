@@ -24,7 +24,7 @@ I am a malware developer and analyst, and I enjoy trolling script kiddies, malwa
 
 - C#
 - Python
-- c++
+- Cpp
 
 **Tools**
 
