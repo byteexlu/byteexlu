@@ -4,14 +4,10 @@
 
 <h1 align="center">./Mikey</h1>
 <p align="center">
-  Reverse Engineering • Malware Analaysis • Tools Development
+  Security Researcher
 </p>
 
 ---
-
-## About Me
-
-I am a malware developer and analyst, and I enjoy trolling script kiddies, malware kids and scammers
 
 ## Interests
 
@@ -25,15 +21,16 @@ I am a malware developer and analyst, and I enjoy trolling script kiddies, malwa
 - C#
 - Python
 - Cpp
-
+- Fronted/Backend
 **Tools**
 
 - Ghidra
 - x64dbg
 - dnSpy
 - Visual Studio
+- Visual Studio Code
 
 ## Contact
 
-- my discord: wdexclussion
+- my discord: bytexlue
 - my telegram: TCP006
