@@ -11,8 +11,8 @@
 
 ## Interests
 
-- Cyber Security
-- Kick Boxing
+- Bug Bounty Web Applicationsion
+- Reverse Engineering - Malware
 - Analysis, Deconstruction, and Experimentation
 - Unconventional Ideas
 
