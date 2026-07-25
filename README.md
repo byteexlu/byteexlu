@@ -22,8 +22,8 @@
 - Python
 - Cpp
 - Fronted/Backend
-**Tools**
 
+**Tools I use**
 - Ghidra
 - x64dbg
 - dnSpy
