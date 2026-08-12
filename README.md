@@ -32,5 +32,5 @@
 
 ## Contact
 
-- my discord: bytexlue
+- my discord: bytexluex
 - my telegram: TCP006
